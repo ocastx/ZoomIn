@@ -1,12 +1,7 @@
-**Zoom In is deprecated.** Zoom keeps changing their page which breaks the plug-in. I don't use Zoom anymore so it's hard to keep up with them. Sorry, everyone.
-
-— Sam
-
----
-
 <img src="Modules/ZoomIn/Resources/Assets.xcassets/AppIcon.appiconset/Mac-256.png" width="128">
 
 # Zoom In
+created by [@soffes](https://github.com/soffes/), maintained by [@ocastx](https://github.com/ocastx/) 
 
 ### Safari extension to automatically open Zoom links
 
@@ -17,7 +12,7 @@ Zoom In is an app that installs a Safari extension. This extension does two thin
 Simple as that. **It’s free.** Enjoy!
 
 
-👉 **[Download the latest release](https://github.com/nothingmagical/ZoomIn/releases/download/v1.0.4/ZoomIn-1.0.4.zip)** 👈
+👉 **[Download the latest release](https://github.com/ocastx/ZoomIn/releases/download/v1.0.5/ZoomIn-1.0.5.zip)** 👈
 
 ## Privacy
 
