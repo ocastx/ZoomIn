@@ -12,7 +12,7 @@ Zoom In is an app that installs a Safari extension. This extension does two thin
 Simple as that. **It’s free.** Enjoy!
 
 
-👉 **[Download the latest release](https://github.com/ocastx/ZoomIn/releases/download/v1.0.6/ZoomIn-1.0.6.zip)** 👈
+👉 **[Download the latest release](https://github.com/ocastx/ZoomIn/releases/download/v1.0.7/ZoomIn-1.0.7.zip)** 👈
 
 ## Privacy
 
